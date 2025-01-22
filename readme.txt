@@ -1,0 +1,14 @@
+Developing a Delivery App
+-Creating an account
+    -User information
+-Seaching for places
+    -Browse for nearby stores
+-ordering
+    -placing order
+    -tracking Delivery
+    -delivery type
+-Payment method
+-Driver's interface
+    -Driver's information
+    -Driver rating
+    -Insurance
